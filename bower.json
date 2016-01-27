@@ -1,0 +1,11 @@
+{
+  "name": "client_prototype_skeleton",
+  "authors": [
+    "David Hamilton"
+  ],
+  "homepage": "https://github.com/dhamilton91/Client-Prototype-Skeleton",
+  "moduleType": [],
+  "ignore": [],
+  "dependencies": {
+  }
+}
